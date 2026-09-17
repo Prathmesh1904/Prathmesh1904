@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prathmesh1904
 - 👀 I’m interested in Artificial intelligence...
-- 🌱 I’m currently learning B.TECH... 
+- 🌱 B.TECH in AI 
 
 <!---
 Prathmesh1904/Prathmesh1904 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
